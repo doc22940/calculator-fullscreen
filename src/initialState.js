@@ -4,8 +4,8 @@ export default {
   keys: basicArithmetic,
   settings: {
     authorName: 'Panagiotis Panagi',
-    authorUrl: 'https://github.com/panayi',
-    repoUrl: 'https://github.com/panayi/calculator',
+    authorUrl: 'https://github.com/doc22940',
+    repoUrl: 'https://github.com/doc22940/calculator-fullscreen',
     tweetText: '3R Calculator built with React, Redux and Ramda',
     tweetVia: 'ppanagi'
   },
